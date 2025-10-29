@@ -1,10 +1,6 @@
 # Hi 👋, I'm Phat Mai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/pzhat&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/pzhat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/pzhat" alt="https://github.com/pzhat" /></a> </p>
-
-- 🔭 I'm currently working on **Web Pentest | Red Team | Pentest**
+- 🔭 I'm currently on **Web Pentest | Red Team | Pentest**
 
 - 📫 How to reach me **phast28904@gmail.com**
 
