@@ -1,22 +1,124 @@
-# Hi 👋, I'm Phat Mai
+<div align="center">
+  
+# 👋 Hey there! I'm Phat Mai
 
-- 🔭 I'm currently on **Web Pentest | Red Team | Pentest**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Web+Penetration+Tester;Red+Team+Operator;Security+Researcher" alt="Typing SVG" />
 
-- 📫 How to reach me **phast28904@gmail.com**
+</div>
 
-- 📝 I regularly write articles on **[https://pzhat.github.io/](https://pzhat.github.io/)**
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phat-mai-hong-2580a52aa/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pzhat)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pzhat.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phast28904@gmail.com)
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1VsVsh7JDRimBBNREgyi2VdNObPIBDmkc/view?usp=sharing](https://drive.google.com/file/d/1VsVsh7JDRimBBNREgyi2VdNObPIBDmkc/view?usp=sharing)**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/https://github.com/pzhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/pzhat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/phat-mai-hong-2580a52aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phat-mai-hong-2580a52aa/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jekyll" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+## 🎯 About Me
 
+```python
+class SecurityResearcher:
+    def __init__(self):
+        self.name = "Phat Mai"
+        self.role = "Cybersecurity Professional"
+        self.focus = ["Web Penetration Testing", "Red Team Operations", "Security Research"]
+        self.location = "Da Nang, Vietnam"
+        
+    def current_work(self):
+        return [
+            "🔐 Conducting Web Application Penetration Tests",
+            "🎯 Red Team Engagements",
+            "📝 Writing Security Articles & CTF Writeups",
+            "🔍 Vulnerability Research"
+        ]
+```
 
+## 🛡️ Security Arsenal
 
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pzhat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pzhat&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pzhat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+🔐 Visit my blog at [pzhat.github.io](https://pzhat.github.io/) for:
+- Web Security Writeups
+- CTF Solutions
+- Penetration Testing Tutorials
+- Red Team Techniques
+- Security Research Articles
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📄 Experience
+
+📋 **[Download My Resume](https://drive.google.com/file/d/1VsVsh7JDRimBBNREgyi2VdNObPIBDmkc/view?usp=sharing)**
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+💼 **Open for collaboration on security projects!**
+
+📧 **Email:** phast28904@gmail.com
+
+🌐 **Blog:** [pzhat.github.io](https://pzhat.github.io/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." - Gene Spafford
+
+![Profile Views](https://komarev.com/ghpvc/?username=pzhat&color=00D9FF&style=for-the-badge)
+
+</div>
